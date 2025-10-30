@@ -27,6 +27,6 @@ It took 3 weeks but they came and hade made my 1 prototipe and it was coler that
 ![WIN_20251030_22_26_23_Pro](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--34e375995bcea2cf889c08456a40dd9f62c58f88/WIN_20251030_22_26_23_Pro.jpg)![WIN_20251030_22_25_16_Pro](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0f76f51e153c5cde9be6edbcbaa1cdddc875a41f/WIN_20251030_22_25_16_Pro.jpg)
 
 it took me ages to figer out why the buttons wont work and the code 
-<!-- Uploading WhatsApp Video 2025-10-28 at 15.50.33_aa70b163.mp4 #ms-1761857681900-28sa33 -->
+
   
 
