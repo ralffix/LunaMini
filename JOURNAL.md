@@ -23,7 +23,6 @@ So i came up with the idea as a buisnes ( if i can i will make it into 1) as i w
 
 ## 10/30/2025 10:27 PM - Parts came  
 
-It took 3 weeks but they came and hade made my 1 prototipe adn it wascoler that i thougt i hade some problems took 3 trys to![WIN_20251030_22_26_23_Pro](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--34e375995bcea2cf889c08456a40dd9f62c58f88/WIN_20251030_22_26_23_Pro.jpg)![WIN_20251030_22_25_16_Pro](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0f76f51e153c5cde9be6edbcbaa1cdddc875a41f/WIN_20251030_22_25_16_Pro.jpg)
-
- get the buttons working ( wrong pins XD ) and i now have a dangling mess of wires   
+It took 3 weeks but they came and hade made my 1 prototipe and it was coler that i thougt i hade some problems took 3 trys to get the buttons working ( wrong pins XD ) and i now have a dangling mess of wires 
+![WIN_20251030_22_26_23_Pro](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--34e375995bcea2cf889c08456a40dd9f62c58f88/WIN_20251030_22_26_23_Pro.jpg)![WIN_20251030_22_25_16_Pro](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0f76f51e153c5cde9be6edbcbaa1cdddc875a41f/WIN_20251030_22_25_16_Pro.jpg)  
 
