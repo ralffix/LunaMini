@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/30/2025 - i have came up with the idea and finilezd what i whant  
+## 10/30/2025 10:22 PM - i have came up with the idea and finilezd what i whant  
 
 What i whanted:
 
@@ -20,4 +20,10 @@ usb C charging
 
 So i came up with the idea as a buisnes ( if i can i will make it into 1) as i was thinking i under stand the camera had to go to much space was used. And then i bought the parts. It costme 20 eiro not alot but for me it was all i had left and more.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--266ebe6b246f29a175efc1209e2ffc942cb89a1c/image.png)
   
+
+## 10/30/2025 10:27 PM - Parts came  
+
+It took 3 weeks but they came and hade made my 1 prototipe adn it wascoler that i thougt i hade some problems took 3 trys to![WIN_20251030_22_26_23_Pro](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--34e375995bcea2cf889c08456a40dd9f62c58f88/WIN_20251030_22_26_23_Pro.jpg)![WIN_20251030_22_25_16_Pro](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0f76f51e153c5cde9be6edbcbaa1cdddc875a41f/WIN_20251030_22_25_16_Pro.jpg)
+
+ get the buttons working ( wrong pins XD ) and i now have a dangling mess of wires   
 
