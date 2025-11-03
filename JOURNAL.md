@@ -30,3 +30,9 @@ it took me ages to figer out why the buttons wont work and the code
 
   
 
+## 11/3/2025 - Finaly finished making the pcb  
+
+Finaly drawed up the scematik and hade to redisine the psb 4 times to get th the newest vercion, but i hade a problem as i was gana cnc it so hat means i can only make a 1 sided pcb ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--df02eae702d190302e026f462bcd9472ea442bae/image.png) ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--71c7dd7a4be3cd8d99c698f9def4b7cab16e1ca2/image.png)
+
+  
+
